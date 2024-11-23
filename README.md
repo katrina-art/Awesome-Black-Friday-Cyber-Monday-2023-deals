@@ -35,6 +35,7 @@ Don't forget to:
 | [Elephas](https://elephas.app/?ref=black_friday_deals_by_anil) | Personal AI assistant for the Mac, iPhone and iPad - Your AI Powered Second Brain. | 20% off on the lifetime deal for all plans - Standard, Pro and Pro Plus. Code: **`BFCM23`** (Valid till 27th Nov, 2023) |
 | [StealthGPT](https://stealthgpt.ai/?ref=black_friday_deals_by_anil) | Create or Remake AI Generated Content to be Undetectable. | Code: **`BlackFriday`**, 90% off first month (Valid till 27th Nov, 2023) |
 | [Codetoflow](http://codetoflow.com/?ref=black_friday_deals_by_anil) | Code to Flow enables you to Visualize, Analyze, and Understand Your Code by turning it into Interactive Flowcharts with AI. | 51% off on all plans. code: **`BLF51`** (Valid till 27th Nov, 2023) |
+| [HammerAI](https://www.hammerai.com/) | Private and uncensored character chat app - either run models locally with Ollama, or use our cloud-hosted models. | 50% OFF with code **`BZAOH18`** |
 
 [⬆️ Go to Top](#table-of-contents)
 
